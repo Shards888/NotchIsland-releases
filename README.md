@@ -28,7 +28,7 @@ Everything runs on your Mac. No account, no analytics.
 
 <p align="center"><img src="https://raw.githubusercontent.com/Shards888/NotchIsland-releases/main/installer.png" width="560" alt="The installer: drag NotchIsland into Applications"></p>
 
-1. Download **NotchIsland-1.0.dmg** from the [latest release](https://github.com/Shards888/NotchIsland-releases/releases/latest), and open it.
+1. Download the **.dmg** from the [latest release](https://github.com/Shards888/NotchIsland-releases/releases/latest), and open it.
 2. Drag **NotchIsland** onto **Applications**.
 3. Open **NotchIsland** from Applications.
 
